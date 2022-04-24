@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for PowerAmp
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=8741DB3F-73D6-4284-889E-2C3C5A6F17BB
 VaultGUID=0FCF762E-EC50-4671-9F4D-211B742B4026
@@ -158,63 +158,15 @@ DocumentPath=Project Outputs for PowerAmp\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for PowerAmp\PCB1.G1
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for PowerAmp\PCB1.G2
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for PowerAmp\PCB1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for PowerAmp\PCB1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for PowerAmp\PCB1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for PowerAmp\PCB1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for PowerAmp\PCB1.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for PowerAmp\PCB1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for PowerAmp\PCB1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for PowerAmp\PCB1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for PowerAmp\PCB1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
 DocumentPath=Project Outputs for PowerAmp\PCB1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for PowerAmp\PCB1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for PowerAmp\PCB1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for PowerAmp\PCB1.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -264,7 +216,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for PowerAmp
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
